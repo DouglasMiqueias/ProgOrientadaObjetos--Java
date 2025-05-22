@@ -9,31 +9,31 @@ package prjeqsegundograu.objetos;
  * @author IFTM
  */
 public class DadosEntrada {
-    private float a;
-    private float b;
-    private float c;
+    private double a;
+    private double b;
+    private double c;
 
-    public float getA() {
+    public double getA() {
         return a;
     }
 
-    public void setA(float a) {
+    public void setA(double a) {
         this.a = a;
     }
 
-    public float getB() {
+    public double getB() {
         return b;
     }
 
-    public void setB(float b) {
+    public void setB(double b) {
         this.b = b;
     }
 
-    public float getC() {
+    public double getC() {
         return c;
     }
 
-    public void setC(float c) {
+    public void setC(double c) {
         this.c = c;
     }
     
