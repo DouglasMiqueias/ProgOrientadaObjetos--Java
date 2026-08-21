@@ -17,4 +17,8 @@ void main() {
 
     System.out.println("Lista Atualizada: ");
     linguagens.forEach(linguagem-> System.out.println(linguagem));
+
+    if(linguagens.get(0).equals("Java") ){
+        System.out.println("A linguagem no index 0 é Java");
+    }
 }
