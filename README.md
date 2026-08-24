@@ -19,10 +19,10 @@ O projeto está organizado em três níveis principais para facilitar a navegaç
   * Tratamento de exceções personalizadas (`try/catch`).
 
 * **`📂 Desafios/`**
-  * **`Prj_SistemaBancario`**: Sistema simulando operações bancárias com validações, saques, depósitos e controle de saldo utilizando conceitos avançados de POO.
+  * **`Prj_Desafio_SistemaBancario`**: Sistema simulando operações bancárias com validações, saques, depósitos e controle de saldo utilizando conceitos avançados de POO.
   * Projetos práticos e desafios de lógica de maior complexidade.
-  * **`Prj_SistemaGaragem`**: Sistema de gerenciamento de frota que explora polimorfismo, herança múltipla simulada por interfaces e tratamento robusto de erros.
-
+  * **`Prj_Desafio_SistemaGaragem`**: Sistema de gerenciamento de frota que explora polimorfismo, herança múltipla simulada por interfaces e tratamento robusto de erros.
+  * **`Prj_Desafio_SistemaFiltragemVeiculos`**: Sistema de busca de veículos que aplica Java Core e POO com manipulação de ArrayList, filtragem por regras de negócio, tratamento de exceções customizadas.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
