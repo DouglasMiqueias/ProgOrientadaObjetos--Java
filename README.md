@@ -23,6 +23,8 @@ O projeto está organizado em três níveis principais para facilitar a navegaç
   * Projetos práticos e desafios de lógica de maior complexidade.
   * **`Prj_Desafio_SistemaGaragem`**: Sistema de gerenciamento de frota que explora polimorfismo, herança múltipla simulada por interfaces e tratamento robusto de erros.
   * **`Prj_Desafio_SistemaFiltragemVeiculos`**: Sistema de busca de veículos que aplica Java Core e POO com manipulação de ArrayList, filtragem por regras de negócio, tratamento de exceções customizadas.
+  * **`Prj_Desafio_SistemaProcessamentoPagamentos`**: Gateway de pagamento dinâmico em Java Core que processa transações polimórficas (Cartão de Crédito e Pix) utilizando contratos de interface (Pagavel), taxas percentuais,
+  * validação de chaves/limites com exceções customizadas, controle estático de transações e resiliência a objetos nulos.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
