@@ -25,6 +25,7 @@ O projeto está organizado em três níveis principais para facilitar a navegaç
   * **`Prj_Desafio_SistemaFiltragemVeiculos`**: Sistema de busca de veículos que aplica Java Core e POO com manipulação de ArrayList, filtragem por regras de negócio, tratamento de exceções customizadas.
   * **`Prj_Desafio_GatewayPagamentos`**: Gateway de pagamento dinâmico em Java Core que processa transações polimórficas (Cartão de Crédito e Pix) utilizando contratos de interface (Pagavel), taxas percentuais,
   * validação de chaves/limites com exceções customizadas, controle estático de transações e resiliência a objetos nulos.
+  * **Prj_Desafio_AuditoriaTransacoes`**: Módulo de auditoria e relatórios financeiros em Java Core que utiliza Stream API e Expressões Lambda para filtragem declarativa de dados por Enum (StatusTransacao), cálculo de somatórios com mapToDouble, busca do maior valor com Comparator e prevenção de NullPointerException com a classe Optional.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
